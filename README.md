@@ -1,2 +1,2 @@
 # testing
-testing repo for simple learn
+ hi, this is  simple learn
